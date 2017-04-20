@@ -1,0 +1,7 @@
+info->start=2.600
+info->end=20.000
+info->boxLength=41.29976
+info->outputPrecision=0.01
+info->splineOrder=4
+info->numSplines=150
+info->steps=50
